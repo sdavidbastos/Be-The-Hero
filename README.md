@@ -42,7 +42,7 @@ NodeJS, npm ou yarn.
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - knex
-- TypeScript
+- JavaScript
 - React
 - SQLite
 - React Native
